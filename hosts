@@ -1,5 +1,3 @@
-#version: 202204170012
-#url=https://github.com/VeleSila/yhosts/blob/master/hosts
 0.0.0.0 ereg.adobe.com
 0.0.0.0 hlrcv.stage.adobe.com
 0.0.0.0 lm.licenses.adobe.com
