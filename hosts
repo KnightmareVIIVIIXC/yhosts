@@ -1,5 +1,4 @@
-#version: 202204170012
-#url=https://github.com/VeleSila/yhosts/blob/master/hosts
+# yhost
 0.0.0.0 adfurikun.jp
 0.0.0.0 aag.yahooapis.jp
 0.0.0.0 optimus-ads.amap.com
