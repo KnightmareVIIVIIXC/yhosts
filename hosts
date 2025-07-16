@@ -1136,11 +1136,6 @@
 0.0.0.0 dai.shuzilm.cn
 0.0.0.0 stream.shuzilm.cn
 0.0.0.0 www.shuzilm.cn
-255.255.255.255	broadcasthost
-::1             localhost
-0.0.0.0 localhost
-::1             ip6-localhost
-0.0.0.0 XiaoQiang
 0.0.0.0 geo2.adobe.com
 0.0.0.0 www.2144.cn
 0.0.0.0 iadctest.qwapi.com
@@ -2803,7 +2798,6 @@
 0.0.0.0 cdn.9823df.com
 0.0.0.0 cdn.adstract.com
 0.0.0.0 cdn.bmcdn2.com
-0.0.0.0 cdn.bootcdn.net
 0.0.0.0 cdn.ggsfq.com
 0.0.0.0 cdn.itphanpytor.club
 0.0.0.0 cdn.ndapp.com
@@ -3516,7 +3510,6 @@
 0.0.0.0 p.mendoc.cn
 0.0.0.0 p.niudashu.com
 0.0.0.0 p.qfmzys.com
-0.0.0.0 p.qlogo.cn
 0.0.0.0 p.skimresources.com
 0.0.0.0 p.tamenshuo.com
 0.0.0.0 p.unclecarm.cn
@@ -6405,7 +6398,6 @@
 0.0.0.0 dp3.play.t002.ottcn.com
 0.0.0.0 livep.l.t002.ottcn.com
 0.0.0.0 mtrace.play.t002.ottcn.com
-0.0.0.0 ocsp.int-x3.letsencrypt.org
 0.0.0.0 puui.qpic.cn
 0.0.0.0 rpc-tc.skysrt.com
 0.0.0.0 rpt-gdt.play.t002.ottcn.com
